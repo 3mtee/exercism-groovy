@@ -1,0 +1,5 @@
+rootProject.name = 'exercism-groovy'
+
+include(
+        "hello-world"
+)
